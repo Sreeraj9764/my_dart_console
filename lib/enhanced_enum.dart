@@ -1,4 +1,3 @@
-import 'package:my_dart_console/sets_hash.dart';
 
 mixin Ability {
   int get feetCount;

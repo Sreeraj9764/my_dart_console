@@ -43,7 +43,7 @@ class Tree extends DoubleHeight {
   double height;
 }
 
-class Table with IntHeight {
+class Table extends IntHeight {
   @override
   int height;
   Table({required this.height});
