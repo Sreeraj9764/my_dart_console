@@ -43,14 +43,14 @@ class Tree extends DoubleHeight {
   double height;
 }
 
-class Table with IntHeight {
-  @override
-  int height;
-  Table({required this.height});
-}
+// class Table with IntHeight {
+//   @override
+//   int height;
+//   Table({required this.height});
+// }
 
-final obj1 = Tree(height: 2.0);
-final obj2 = Table(height: 5);
+// final obj1 = Tree(height: 2.0);
+// final obj2 = Table(height: 5);
 
 ////////////////////////////////////
 
